@@ -10,7 +10,7 @@
 
 	<bean id="employee" class="com.spring.demo.EmployeeBean"
 		autowire="byName">
-		<property name="fullName" value="Lokesh Gupta" />
+		<property name="fullName" value="Tejas Ghadshi" />
 	</bean>
 	<bean id="departmentBean" class="com.spring.demo.DepartmentBean" >
         <property name="name" value="Human Resource" />
